@@ -1,0 +1,20 @@
+.a1{
+    display: flex;
+    justify-content: center;
+     padding:10px ;
+     color:crimson
+   
+   }
+   .c1{
+       display: flex;
+       letter-spacing: 20%;
+       padding: 40px;
+       background-image: url(https://imgs.search.brave.com/VGYj6ZzPKXEjTcSKY507BUUZLCZzYuns2JJtN8F1RDs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/MjY0ODg4MDc4NTUt/MzA5MTg2ODA0NTg3/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TVRWOGZH/SnNkWEo4Wlc1OE1I/eDhNSHg4ZkRBPQ.jpeg);
+       background-repeat: no-repeat;
+       background-size: cover;
+      
+      }
+      .card{
+       margin: 20px;
+       
+      }

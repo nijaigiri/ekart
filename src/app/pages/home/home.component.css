@@ -1,0 +1,9 @@
+.h{
+    display: flex;
+    justify-content: center;
+}
+.parent{
+    width: 1000px;
+    margin-left:120px;
+    
+}

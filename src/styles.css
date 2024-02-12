@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(https://imgs.search.brave.com/FAjGaI5Bi-f05rzCVBVMn1DWsX9fqZxX_N5QKCPe_KY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9yb3VnaC1wYXBl/ci10ZXh0dXJlLXdo/aXRlLXNoYWRlXzEw/NTAzNC0zOTguanBn/P3NpemU9NjI2JmV4/dD1qcGc );
+    background-repeat: no-repeat;
+    background-size: cover;
+}

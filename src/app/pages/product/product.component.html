@@ -1,0 +1,30 @@
+<div class="container">
+    <h1 class="a1">BRAND FACTORY</h1>
+    <div class="c1">
+      <div class="container text-center">
+        <div class="row">
+         
+          
+     
+    @for (item of data; track $index) {
+      <div class="col">
+        
+     
+    <div routerLink="{{item.id}}" class="card" style="width: 18rem;">
+      <img src="{{item.image}}" height="250px" class="card-img-top" style="padding: 5px ;" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">{{item.title}}</h5>
+        <p class="card-text">{{item.description | slice: 0: 150}}</p>
+        <p 
+         class="card-text">PRICE:${{item.price}}</p>
+        <p class="card-text"> RATING:{{item.rating.rate}}</p>
+        
+      </div>
+    </div>
+    </div>
+    
+    }
+    </div>
+    </div>
+    </div>
+    </div>

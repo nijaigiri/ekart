@@ -1,0 +1,11 @@
+.card{
+    background-image: url(https://imgs.search.brave.com/p27Lc517orTsA9ty7iqoxWR39rAhMgqNBe7NM05xTb0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9z/aGFkb3ctcGluay1i/YWNrZ3JvdW5kLXdp/dGgtY2VtZW50LXRl/eHR1cmVfNTM4NzYt/OTg1NzYuanBnP3Np/emU9NjI2JmV4dD1q/cGc);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid;
+    border-color: black;
+    border-radius: 10px ;
+    height: 580px;
+    margin-bottom: 20px;
+    box-shadow: black;
+}
